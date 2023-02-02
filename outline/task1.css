@@ -1,0 +1,55 @@
+div{
+    padding: 10px;
+}
+p{
+    background-color: aqua;
+} 
+.orit{
+    outline:6px auto;
+    cursor: zoom-in;
+}
+.orit1{
+    outline:15px #2F3805 double;
+    cursor: zoom-out;
+}
+.orit2{
+    outline: 7px  coral inset;
+    cursor:row-resize;
+}
+.orit3{
+    outline:9px coral outset;
+    cursor:col-resize;
+}
+.orit4{
+    outline: 10px #742494 groove;
+    cursor: n-resize;
+}
+.orit5{
+    outline:10px #777777 solid;
+    cursor: e-resize; 
+}
+img{
+    height: 200px; width: 200px;
+    align-items: center;
+    outline: 10px #D34A71 dotted;
+    cursor:ne-resize;
+}
+h1{
+    text-align: center;
+    cursor:nw-resize;
+}
+.ch{
+    cursor:crosshair;
+}
+.po{
+    cursor: progress;
+}
+.na{
+    cursor:not-allowed;
+}
+.gb{
+    cursor:grab;
+}
+.gg{
+    cursor:grabbing;
+}

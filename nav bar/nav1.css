@@ -1,0 +1,43 @@
+body{
+    background-image: url("gray.jpg");
+    background-size: cover;
+}
+ul li{
+    padding-left:30px !important;
+}
+.trans{
+    color:aliceblue !important;
+    -webkit-background-clip: text !important;
+}
+.sch{
+    height:50px; width: 50px;
+    -webkit-background-clip: text;
+}
+.space{
+    margin-right: 200px !important;
+
+}
+
+.pad{
+    padding: 100px 100px 100px ;
+}
+.mar{
+    margin-right:100px ;
+    margin-left: 100px;
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+}
+.mar1{
+    text-align: center;
+    color:aliceblue;
+}
+.but{
+    color:aliceblue;
+    border-radius:50px;
+    background-color: rgb(34, 141, 207);
+    width:150px;
+    padding: 10px;
+    margin:0 400px;
+
+}

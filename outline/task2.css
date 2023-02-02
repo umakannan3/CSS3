@@ -1,0 +1,21 @@
+div{
+    height:200px;
+    width:500px;
+    background-color: burlywood;
+}
+.of{
+    overflow: scroll;
+}
+.of1{
+    overflow: auto;
+}
+.of2{
+    overflow: visible;
+}
+.of3{
+    overflow:hidden;
+}
+.of4{
+    overflow-x:hidden;
+    overflow-y: visible;
+}
