@@ -1,0 +1,72 @@
+.imag{
+    height: 30vh; width: 700px;
+    /* background-image: url("lemon.jpg"); */
+    margin:0 auto;
+}
+.imag1{
+    height:60vh; width:700px;
+}
+div{
+    padding: 5px;
+}
+.dd{
+    /* padding: 50px; */
+    margin-left: 150px;
+}
+nav{
+    background-color: rgb(20, 16, 16);
+    border-radius: 10px;
+    text-align: center; 
+
+}
+ul li{
+    display: inline;
+    color: aliceblue;
+    font-size:x-large;
+    padding:10px;
+}
+.man{
+    height: 30vh; width: 95vw;
+    background-image: url("pas.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.ee{
+    color: aliceblue;
+    font-size: xx-large;
+}
+.ee1{
+    color: aliceblue;
+    font-size: medium;
+}
+.ww{
+    font-size:xx-large;
+    font-weight: bold;
+}
+.bb{
+    height: 500px; width: 300px;
+    background-color:blanchedalmond; 
+    border-radius: 10px;
+}
+.chi{
+    height: 150px; width: 250px;
+}
+.ji{
+    font-size: large;
+}
+td{
+    padding-left: 80px;
+}
+.na{
+    height: 50px;width: 50px;
+    float:left;
+    padding-left: 50px ;
+}
+.kk{
+    text-align: right;
+    text-decoration: overline;
+}
+img{
+    height:300px; width: 300px;
+}
