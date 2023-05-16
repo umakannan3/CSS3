@@ -67,6 +67,7 @@ td{
     text-align: right;
     text-decoration: overline;
 }
-img{
-    height:300px; width: 300px;
+.img{
+    height:300px; width: 300px !important;
+margin:0 auto;
 }
